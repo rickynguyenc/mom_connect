@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480270290959",
+    "project_id": "udemy-learn-ricky",
+    "storage_bucket": "udemy-learn-ricky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480270290959:android:dfe8df15ed0b39b9afd37a",
+        "android_client_info": {
+          "package_name": "com.example.udemy_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qxOTQV3rhB7B0oe9C8Q9IjNgG8cKFso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
